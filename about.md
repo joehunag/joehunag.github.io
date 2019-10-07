@@ -4,8 +4,9 @@ title: about
 permalink: /about/
 ---
 
-joehuang's blog
+loongyowl's blog
 
 ### Contact me
 
-[mailto:huangju7231@126.com](mailto:huangju7231@126.com)
+[Email:huangju7231@126.com](mailto:huangju7231@126.com)
+
